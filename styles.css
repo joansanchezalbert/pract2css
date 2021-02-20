@@ -1,0 +1,65 @@
+div.div1 {
+    background-color: #add9e6;
+    text-align: center;
+    font-weight: bold;
+}
+
+img.valencia {
+    width: 170px;
+    height: 100px;
+    opacity: 1.0;
+}
+
+img.valencia:hover {
+    opacity: 0.5;
+}
+
+
+div.div2 {
+    text-align: center;
+}
+
+hr.corto {
+    width: 600px;
+}
+
+div.azul {
+    background-color: blue;
+    height: 10px
+}
+
+div.div3 {
+    text-align: center;
+}
+
+span.span1:hover {
+    background-color: #add9e6;
+}
+
+span.span2:hover {
+    background-color: #add9e6;
+}
+
+span.span3:hover {
+    background-color: #add9e6;
+}
+
+span.span4:hover {
+    background-color: #add9e6;
+}
+
+div.div4 {
+    color: blue;
+    font-weight: bold;
+    background-image: url(img/valencia_antigua.jpg);
+}
+
+div.div5 {
+    text-align: center;
+    background-color: #add9e6;
+}
+
+img.valencia2 {
+    width: 270px;
+    height: 200px;
+}
